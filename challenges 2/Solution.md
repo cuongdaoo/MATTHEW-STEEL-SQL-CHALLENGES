@@ -1,4 +1,4 @@
-# Challenge 1 - Steve's Car Showroom 
+# Challenge 2 - Esports Tournament 
 
 # **Relationship Diagram**
 ![image](https://github.com/user-attachments/assets/cca9858d-9009-450c-af1f-d8e4012db566)

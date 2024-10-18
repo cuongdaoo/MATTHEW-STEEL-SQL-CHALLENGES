@@ -1,4 +1,4 @@
-# **Challenge 1 - Steve's Car Showroom **
+# Challenge 1 - Steve's Car Showroom 
 
 # **Relationship Diagram**
 ![image](https://github.com/user-attachments/assets/7c86903d-dafa-4945-a40b-2ecbc538f286)

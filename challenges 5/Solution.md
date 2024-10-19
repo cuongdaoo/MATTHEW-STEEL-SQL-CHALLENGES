@@ -149,4 +149,3 @@ Output:
 \
 ![image](https://github.com/user-attachments/assets/3efdb9bd-9711-48db-9c09-effce36ca8c5)
 
-```

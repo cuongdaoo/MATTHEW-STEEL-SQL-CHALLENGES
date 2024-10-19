@@ -12,15 +12,15 @@ I hope my solutions inspire your SQL journey.
 
 ## Challenge List with solutions
 
-[Challenge 1 - Steve's Car Showroom]()
+[Challenge 1 - Steve's Car Showroom](https://github.com/cuongdaoo/MATTHEW-STEEL-SQL-CHALLENGES/tree/main/challenges%201)
 
-[Challenge 2 - Esports Tournament]()
+[Challenge 2 - Esports Tournament](https://github.com/cuongdaoo/MATTHEW-STEEL-SQL-CHALLENGES/tree/main/challenges%202)
 
-[Challenge 3 - Customer Insights]()
+[Challenge 3 - Customer Insights](https://github.com/cuongdaoo/MATTHEW-STEEL-SQL-CHALLENGES/tree/main/challenges%203)
 
-[Challenge 4 - Finance Analysis]()
+[Challenge 4 - Finance Analysis](https://github.com/cuongdaoo/MATTHEW-STEEL-SQL-CHALLENGES/tree/main/challenges%204)
 
-[Challenge 5 - Pub Pricing Analysis]()
+[Challenge 5 - Pub Pricing Analysis](https://github.com/cuongdaoo/MATTHEW-STEEL-SQL-CHALLENGES/tree/main/challenges%205)
 
 ## Techniques
 Here are the techniques I have used:
